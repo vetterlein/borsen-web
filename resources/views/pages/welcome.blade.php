@@ -50,7 +50,7 @@
             <div class="card col-11 col-md-3">
                 <img src="/assets/breakingNews.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">Første artikel</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
  
@@ -62,7 +62,7 @@
             <div class="card col-11 col-md-3 ">
                 <img src="/assets/breakingNews.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">Anden Artikel</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
  
@@ -74,7 +74,7 @@
             <div class="card col-11 col-md-3">
                 <img src="/assets/breakingNews.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">Tredje Artikel</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
  
@@ -90,7 +90,7 @@
             <div class="card col-sm-11 col-md-3">
                 <img src="/assets/breakingNews.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">Fjerde Artikel</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
  
@@ -102,7 +102,7 @@
             <div class="card col-sm-11 col-md-3">
                 <img src="/assets/breakingNews.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">Femte Artikel</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
  
@@ -114,7 +114,7 @@
             <div class="card col-sm-11 col-md-3">
                 <img src="/assets/breakingNews.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title"></h5>
+                        <h5 class="card-title">Sjette Artikel</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
  
